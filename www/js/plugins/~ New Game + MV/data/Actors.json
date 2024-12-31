@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":52,"dataId":8,"value":1},{"code":52,"dataId":9,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":"Normal harold can use potion items and special items\nfor Original Harold armor type!"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":52,"dataId":10,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Ninja Harold","nickname":"","note":"<itemslots:10>","profile":"Ninja Harold can only use attack items.\nHe also has more item slots than other harolds"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":52,"dataId":9,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Haroldorf","nickname":"","note":"","profile":"Haroldorf can only use potion items"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold 4","nickname":"","note":"","profile":""}
+]

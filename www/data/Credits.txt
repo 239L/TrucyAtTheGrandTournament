@@ -1,0 +1,440 @@
+ \c[3]Авторы: tomgord и _lukech\c[0]
+
+Данная работа является локальным проектом, созданным 
+для сервера "Case Ace Attorney" на основе сюжетов, 
+развитых в кортрумах OL. Все истории и персонажи
+выдуманы.
+
+\c[3]Игроки, чьи персонажи появляются в игре:\c[0]
+
+_lukech
+tomgord
+AlexTsares#0228
+frederiktrite
+Phoenix Wright#8156
+ustri
+Anzay#6221
+trucywright887
+diegoarmandogodot
+null2868
+SerJaNt#1567
+Mkit#5872
+shamspeare
+Ходячий Ноунейм#1538
+cosmo_mistinge
+theoneandonlysomething
+brushbruh
+sus_ato
+_peped
+godot5654
+jamshutik228
+sark_iris_jobs
+
+\c[3]Artwork: tomgord
+
+\c[3]Спрайты: tomgord, _lukech, _peped, ustri
+
+\c[3]WEBM ресурсы: tomgord, _lukech, shamspear
+
+\c[3]Сценарий: tomgord, _lukech, _peped
+
+\c[3]Отдельное спасибо создателям кастомных 
+персонажей OL:\c[0]
+
+Lemdavid (Barok Van Zieks, Herman Crab)
+jamshutik228 (William Wright Custom)
+Idioticheskiy (Sebastian Debeste Custom)
+Skipertale (Aria Steelwind Custom)
+Cosmo Miste (Ruby Tymora, Tyrion Cuthbert)
+Volfram-chan (Ghost Trick Customs, Portsman)
+VLS (Juniper Woods Custom)
+diegoarmandogodot (Diego Armando Custom)
+man (Pirate Customs)
+mash (Larry Butz SOJ Custom)
+bistec (Juror #3)
+honeybomb (Sonic Customs)
+shamspear (Shamspear Custom)
+и другие.
+
+\c[3]Музыка:\c[0]
+
+Nitro Fun - Final Boss
+
+Nitro Fun - New Game
+
+Memme - Avalanche
+
+ESTi - HELIX
+
+MDK & meganeko - Supercharge
+
+L's Ideology (Death Note)
+
+Normal Battle Theme
+(Hazuki Dies She Has No Name OST)
+
+Determination Theme
+(Hazuki Dies She Has No Name OST)
+
+(Yu-Gi-OH OST)城之内、熱き想い
+
+Puzzles (Professor Layton and the 
+Unwound Future OST)
+
+Three Bar Logos (OMORI OST)
+
+Madou Monogatari
+
+World's End Valentine (OMORI OST)
+
+Fumie Kumatani - Apotos Day
+
+A_hisa - Cheshire's dance
+
+Hideki Naganuma -
+AIN'T NOTHIN' LIKE A FUNKY BEAT
+
+The Reaper of the Bailey (TGAA OST)
+
+Armando Trovaioli - Beach Parade
+
+Biggering (Lorax OST)
+
+Bossfight - Nock Em
+
+Careful Shouting (Kung Fury OST)
+
+Carpenter Brut - Le Perv
+
+Casino Park (Sonic Heroes OST)
+
+Chicala Lpis - Blackest Luxury Car
+
+Chipzel - Fighting Chance
+
+Chipzel - Against All Odds
+
+Chipzel - Elimination Round
+
+Chipzel - Bonus Round
+
+Circus Theme Song
+
+Shinkichi Mitsumune, Masato Nagai, 
+SHOJI - 海馬潮人
+
+COMPLICATION (Ghost Trick OST)
+
+Crash Bandicoot Warped - Main Theme 
+(Lucas Fader Remix)
+
+Men In Black OST (Remix)
+
+CreepyCastle (Schooby Doo OST)
+
+CRISIS CITY ： ACT2 (Sonic 
+Generations)
+
+Shakespeare of the Slums (TGAA OST)
+
+Henry Bowers-Broadbent - Dark Matter
+
+Death Note (L's Theme D) 
+
+DELTARUNE - BIG SHOT REMIX [Lufus]
+
+Field of Hopes and Dreams by RichaadEB
+
+Destroid - Annihilate
+
+DJ Music Man Boss Fight Theme Song
+
+Doomer Panel NKOHA - White Night
+
+Drebber Theme (TGAA OST)
+
+Objection (DD OST)
+
+Pursuit (DD OST)
+
+Difficult People (DD OST)
+
+Endless Days - Walmart Land
+
+Enough About You Truth Prompt
+(Fibbage 3 OST)
+
+ZUN - Lunar Clock 
+
+Everhood OST 94 - 72 (Everhood Mix)
+
+Fibbage 3： Lobby Music (instrumentals)
+
+The Living Tombstone - Five Nights At Freddy’s 
+
+Fostral Theme (Vangers OST)
+
+Friday Night Funkin' - Roses by RichaadEB
+
+Haddaway - What is Love
+
+Heavy (feat. KITCALIBER) (Lolita as Roxy)
+
+Henry-Bowers-Broadbent-Neon-Skies
+
+How Bad Can I Be? (Lorax OST)
+
+Inexorable (Axiom Verge OST)
+
+Henry-Bowers-Broadbent-Intelligent Agents
+
+Henry-Bowers-Broadbent-Jungle Tango
+
+Jail Break (King of Bandit Jing OST)
+
+Golden Nugget Casino
+
+Layton's Theme
+
+Les premiers sourires de Vanessa
+
+Studiopolis Zone Act 1 (Sonic Mania OST)
+
+Luke Atmey Theme (AA OST)
+
+Manuel - Gas Gas Gas
+
+Mario OST
+
+Memme - China Dress
+
+Metallic Madness Zone Act 1 
+(Sonic Mania OST)
+
+Perturbator - Miami Disco
+
+Mirage Saloon Zone (Cover by James Wrong)
+
+ZUN - Suwa Foughten Field
+
+Chris Nordgren - Murderous Anger
+
+Near's Theme (A) - Death Note
+
+Neco Arc - You Spin Me Round
+
+OFF - Pepper Steak (All Levels At Once Remix)
+
+A Rose By Any Other Name (OMORI OST)
+
+Partners - The game is afoot! (TGAA OST)
+
+Persona 4 - Specialist
+
+Distant Traces of Beauty (AA OST)
+
+Pizza Mayhem (Pizza Tower OST)
+
+Pizza Deluxe!(Pizza Tower OST)
+
+Plok! SNES Music - Boss
+
+Power Move (Kung Fury OST)
+
+Princess Cruiser - Tongo Hiti
+
+The Musical Ghost - Layton's Theme
+
+Proux - Sussie
+
+Cazok - Revenge
+
+Toby Fox - Rude Buster
+
+Max Coveri - RUNNING IN THE 90'S
+
+Sabrepulse - Close To Me
+
+Toby Fox - sans
+
+Rush E
+
+Neco arc (Григорий Лепс) - 
+Рюмка водки на столе
+
+Neco Arc - Barbie Girl
+
+Nero's Day At Disneyland
+(Child Protective Services Theme Song)
+
+Smash Mouth - All Star
+
+Смешарики - От Винта!
+
+Klaus Veen - Snibbit Blaze
+
+Space Channel 5 - Spaceport： 
+Introducing Ulala!
+
+Techno Syndrome (Mortal Kombat)
+
+Toby Fox - THE WORLD REVOLVING
+
+Threatenin' Zeppelin (Cuphead OST)
+
+Trace Rising (Axiom Verge OST) 
+
+ZUN - U.N. Owen Was Her
+
+Toby Fox - Dummy
+
+Toby Fox - Enemy Approaching
+
+Macintosh+ - リサフランク420
+
+Funk Fiction - vs. DJ Subatomic Supernova
+
+Vs. Metal Sonic (Sonic Generations OST)
+
+MAXIMUM THE HORMONE - What's up, people?!
+
+XI - Freedom Dive
+
+Yousei Teikoku-Kuusou Mesorogiwi (instrumental)
+
+Безумство Некросса (Crazy Necross) (Vangers Remix)
+
+Vangers Forever (Vangers OST)
+
+Виктор Салтыков - Белая ночь (Doomwave remix)
+
+The Living Tombstone - Five Nights At Freddy’s
+
+mrleonov - specialist (Persona OST remix)
+
+клин - luke atmey theme remix
+
+Shinkichi Mitsumune, Masato Nagai, SHOJI -
+ マジシャンガール
+
+Clams Clams Clams (OMORI OST)
+
+Toby Fox - Megalovania
+
+Felipe Adorno Vassao - Neon Cobra
+
+Golden Vengeance (OMORI OST)
+
+Rogues Gallery - Mirage Saloon Zone Act 2
+
+M.O.O.N - Dust
+
+El Huervo - Daisuke
+
+Scattle - Knock Knock
+
+Stargazer (Planetarium) (TBOI OST)
+
+The GazettE - Diplosomia
+
+bluebell - Wheather Fight
+
+Louis Jordan - Is You Is or 
+Is You Ain't My Baby (Peggy Suave Remix)
+
+Dimaa - Gadget o Swing
+
+Megalovania elevator jazz
+
+The Consouls - Lynne theme jazz cover
+
+Cabanela theme (Ghost Trick OST)
+
+Ghost Trick Theme
+
+Mahalageasca Bucovina Dub
+
+Klavier Gavin
+Ace Attorney Distorted Reality
+
+Hermes Rhodes - God of Speed
+
+M.O.O.N - Hydrogen
+
+Маз Корж - Я помню
+
+Passionate Duelist (YUGIOH OST)
+
+Ernesto Theme Okko
+
+David Bowie - Life on Mars
+
+Carpenter Brut - Roller Mobster
+
+Ling Tosite Sigure - Shandy
+
+Skrillex - Kill Everybody
+
+Double Trouble (Undertale MOD OST)
+
+electricmercury - kingpin
+
+electricmercury - cryptkeeper
+
+Life on Mars Unreleased Soundtrack
+
+YUGIOH OST - The Dark Magician
+
+Sonic Colors - Terminal Velocity Act 1
+
+Yma Sumac - Gopher Mambo
+
+Ulterior Motives by Christopher Saint Booth
+
+Shoji Meguro - Price (Persona 5 OST)
+
+Bad Piggies (mzzlf ver.)
+
+Who's Who - Ulterior Motives ~ Sega Genesis Remix
+
+The Burns - Avail
+
+Ysa Helene Fernandez & Jonathan M. Clark
+- Toxic [DEMO]
+
+Bad Influence - Dreams 4ever [DEMO]
+
+John Snow - Brighter Days
+
+\c[3]Авторы плагинов RPG MAKER MV:\c[0]
+
+Yanfly
+Moghunter
+Galv
+Estriole
+HIME
+NIA
+ShadowDragon
+Yoji Ojima
+Sasuke KANNAZUKI
+Hakuen Studio
+Frogboy
+SRD
+Barreytor
+Midgardsormr
+Shaz
+TSR
+Zeriab
+Kido
+Mr. Trivel
+Tomgord
+
+
+
+
+
+
+
+
+
+\c[3]Спасибо вам за игру!
